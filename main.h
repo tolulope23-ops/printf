@@ -5,7 +5,7 @@
 #include<stdlib.h>
 #include<stdarg.h>
 
-void print_buffe(char buffer[], int *buff_ind); /* This function is created and
+void print_buffer(char buffer[], int *buff_ind); /* This function is created and
                                                    used in the _printf.c file*/
 int _printf(const char *format, ...);
 #endif
